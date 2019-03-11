@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player\Script\Movimiento.cs">
+    <Files>
+      <File FileName="Assets\Player\Script\Movimiento.cs" Line="18" Column="3" />
+      <File FileName="Assets\Enemigo\Script\Muerte.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemigo\Script\Atacar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Player\Script\Disparar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Player\Script\MuertePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Manager Playing\GameMaganerPlaying.cs" Line="1" Column="1" />
+      <File FileName="Assets\MenuInicio\FunctionButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Manager\GameManager.cs" Line="97" Column="2" />
+      <File FileName="Assets\Enemigo\Script\PositionStart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
